@@ -1,0 +1,5 @@
+matplotlib
+seaborn
+numpy
+pandas 
+git+https://github.com/ryan112358/private-pgm.git
